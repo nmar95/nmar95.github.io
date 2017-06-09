@@ -1,1 +1,1 @@
-This repo was originally created as a personal/portfolio website to display my projects.
+This repo was originally created as a personal website to display my projects.
